@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2? family=Lobster&family=Ruslan+Display&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color:rgb(60, 104, 42);
+    font-family: 'Ruslan Display', cursive;
+}
+.quiz{
+     margin-top: 10%;
+    justify-content: space-between;
+    width: 100%;
+    text-align: center;
+    align-items:center;
+}
+.sectionScore{
+    margin-top: 10%;
+    text-align: center;
+}
+.image{
+    width: 400px;
+}
+.Quiz{
+    background: black;
+    width: 450px;
+    min-height: 200px;
+    border-radius: 15px;
+    padding: 20px;
+    display: flex;
+    box-shadow: 10px 10px 42px 0px black;
+    text-align: center;
+    align-items: center;
+    margin-top: 100px;
+    margin-left: 35%;
+}
+ 
+ .answerSection{
+     width: 100%; 
+     display: flex;
+     flex-direction: column;
+     justify-content: space-between;
+ }
+ .button{
+     width: 100%;
+     font-size: 16px;
+     color: rgb(0, 0, 0);
+     background-color: rgb(255, 255, 255);
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     border-radius: 15px;
+     padding: 5px;
+     cursor: pointer;
+     border: 2px solid rgb(0, 0, 0);
+     margin: 5px 0;
+     outline: none;
+ }
+ .button:hover{
+     background-color: rgb(195, 195, 195);
+     transition: all 0.3 ease;
+ }
+ @media screen  and (max-width: 800px){
+    .Quiz  {
+        margin-top: 350px;
+        width: 380px;
+        margin-left: 15%;
+    }
+    .quizPanelImage{
+        width: 250px;
+        margin-left: 5%;
+    }
+    .image{
+        width: 340px;
+    }   
+ }
