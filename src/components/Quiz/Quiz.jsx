@@ -45,12 +45,12 @@ return (
 
          <>
          <h3>Молодец, держи картинку</h3>
-         <img className='image' src='https://i.imgur.com/5m7S9EM.mp4'></img>
+         <img className='image' src='https://media.tenor.com/arqlNu8gyJYAAAAC/cat-cat-jumping.gif'/> 
          </>
         :
          <>
          <h3>о̡̫̣̽͗͡ ̻̇н͚͓̘̏̾͑е̛̘̜̘͑̈́ӗ͙̣͂ет̨̢̛̛̥̯́̆ ͇͚̹̼͂͊̚͞т̤̰̀͑ӹ̩́ ̳͆о͖͛̓͜ш̩͛и̤͌͊̐͢͟͞ͅб̖̠̒͡с̟͇̦̻͊̈́́́я.̊͜.̢͖͑̈̈́͟.̤̜̻͆̂͝</h3>
-         <img className='image' src='https://i.yapx.cc/HrII4.gif'></img>
+         <img className='image' src='https://i.yapx.cc/HrII4.gif'/> 
          </>
 
                 }

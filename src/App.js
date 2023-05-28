@@ -103,11 +103,11 @@ const quizArr = [
   quizName: 'проверь, являешься ли ты русичем', 
    questions: [
     {
-        questionImage: 'https://sportishka.com/uploads/posts/2022-08/1661443032_29-sportishka-com-p-bitseps-negra-oboi-38.jpg',
-        questionText:'кто это?',
+        questionImage: 'https://avatars.dzeninfra.ru/get-zen_doc/5375671/pub_6101b1e733c4f079f16a3587_61022a04e54c2a602fcff0e5/scale_1200',
+        questionText:'что это?',
         answerOptions: [
-        {answerText: 'negr',isCorrect: true},
-        {answerText: 'afroboy',isCorrect: false},
+        {answerText: 'ярило',isCorrect: true},
+        {answerText: 'солнце',isCorrect: false},
         ]
     },
     {
@@ -134,7 +134,7 @@ const quizArr = [
       answerOptions: [
       {answerText: 'вода из байкала',isCorrect: true},
       {answerText: 'сало',isCorrect: false},
-      {answerText: 'водка',isCorrect: false}
+      {answerText: 'хлеб',isCorrect: false}
       ]
   }
     
